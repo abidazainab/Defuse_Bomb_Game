@@ -1,4 +1,6 @@
-
+📸 Preview
+A shaking bomb with a burning fuse. Countdown timer ticking. Can you diffuse it in time?
+![Bomb Game Screenshot](bomb.png)
 
 💣 Bomb Diffusion Game
 A simple keyboard-based game built with p5.js, where you must diffuse a bomb by pressing a secret key sequence before the countdown reaches zero!
@@ -39,10 +41,6 @@ If the timer reaches 0, the bomb also explodes.
 
 🔁 Restarting the Game
 After the game ends (win or lose), just press any key to restart.
-
-📸 Preview
-A shaking bomb with a burning fuse. Countdown timer ticking. Can you diffuse it in time?
-![Bomb Game Screenshot](bomb.png)
 
 👩‍💻 Author
 Built using p5.js — a creative JavaScript library for visual and interactive experiences.
