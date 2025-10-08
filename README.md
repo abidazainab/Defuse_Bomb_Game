@@ -1,3 +1,6 @@
+TRY THE GAME:  https://abidazainab.github.io/Defuse_Bomb_Game/
+
+
 📸 Preview
 A shaking bomb with a burning fuse. Countdown timer ticking. Can you diffuse it in time?
 ![Bomb Game Screenshot](bomb.png)
